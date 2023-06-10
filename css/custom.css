@@ -1,0 +1,15 @@
+.SkyChecklogo {
+    margin-right: 0;
+    width: auto;
+    height: 70px;
+    margin: 25px auto;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    transition: transform .2s;
+}
+
+.SkyChecklogo:hover {
+    transform: scale(1.5);
+}
